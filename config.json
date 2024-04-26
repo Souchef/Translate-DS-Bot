@@ -1,0 +1,19 @@
+{
+	"TOKEN": "",
+	"LOGFILE": "./log.log",
+	"DB_PATH": "./database.db",
+	"SCHEMA_PATH": "./schema.sql",
+	"URL": "",
+	"API": "",
+	"MODEL": "",
+	"PREFIX": "/",
+	"SERVER_ID": "",
+	"CONTEXT": "",
+	"PROMPT": "",
+	"DEEPL_API": "",
+	"AICHAT_ID": "",
+	"RU_CHANNEL_ID": "",
+	"PT_CHANNEL_ID": "",
+	"DE_CHANNEL_ID": "",
+	"EN_CHANNEL_ID": ""
+}
